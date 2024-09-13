@@ -1,0 +1,137 @@
+[
+  {
+    "ruso": "привет",
+    "significado": "Hola",
+    "pronunciacion": ["priviet","pribiet"]
+  },
+  {
+    "ruso": "театр",
+    "significado": "Teatro",
+    "pronunciacion": ["teater","teatr"]
+  },
+  {
+    "ruso": "атом",
+    "significado": "atomo",
+    "pronunciacion": ["atom"]
+  },
+  {
+    "ruso": "пока",
+    "significado": "adios",
+    "pronunciacion": ["poka", "poca"]
+  },
+  {
+    "ruso": "помидор",
+    "significado": "tomate",
+    "pronunciacion": ["pomidor"]
+  },
+  {
+    "ruso": "луна",
+    "significado": "luna",
+    "pronunciacion": ["luna"]
+  },
+  {
+    "ruso": "солнце",
+    "significado": "sol",
+    "pronunciacion": ["solntse","solnse"]
+  },
+  {
+    "ruso": "звезда",
+    "significado": "estrella",
+    "pronunciacion": ["zvezda","zivsda, sivsda"]
+  },
+  {
+    "ruso": "рок",
+    "significado": "roca",
+    "pronunciacion": ["roc","rok"]
+  },
+  {
+    "ruso": "театр",
+    "significado": "teatro",
+    "pronunciacion": ["teater","teatr"]
+  },
+  {
+    "ruso": "карта",
+    "significado": "carta",
+    "pronunciacion": ["carta","karta"]
+  },
+  {
+    "ruso": "мотор",
+    "significado": "motor",
+    "pronunciacion": ["motor"]
+  },
+  {
+    "ruso": "метро",
+    "significado": "metro",
+    "pronunciacion": ["metro"]
+  },
+  {
+    "ruso": "стресс",
+    "significado": "stress",
+    "pronunciacion": ["stress"]
+  },
+  {
+    "ruso": "караоке",
+    "significado": "karaoke",
+    "pronunciacion": ["karaoke"]
+  },
+  {
+    "ruso": "дерево",
+    "significado": "arbol",
+    "pronunciacion": ["derevo","derebo"]
+  },
+  {
+    "ruso": "космос",
+    "significado": "cosmos",
+    "pronunciacion": ["cosmos"]
+  },
+  {
+    "ruso": "тост",
+    "significado": "tostada",
+    "pronunciacion": ["tost"]
+  },
+  {
+    "ruso": "тест",
+    "significado": "prueba",
+    "pronunciacion": ["test"]
+  },
+  {
+    "ruso": "текст",
+    "significado": "texto",
+    "pronunciacion": ["text"]
+  },
+  {
+    "ruso": "танк",
+    "significado": "tanque",
+    "pronunciacion": ["tank"]
+  },
+  {
+    "ruso": "ресторане",
+    "significado": "restorante",
+    "pronunciacion": ["restaran","restoran"]
+  },
+  {
+  "ruso": "момент",
+  "significado": "momento",
+  "pronunciacion": ["moment"]
+  },
+  {
+  "ruso": "норма",
+  "significado": "norma",
+  "pronunciacion": ["norma"]
+  },
+  {
+    "ruso": "вена",
+    "significado": "vena",
+    "pronunciacion": ["vena"]
+  },
+  {
+    "ruso": "ветеран",
+    "significado": "veterano",
+    "pronunciacion": ["veteran"]
+  },
+  {
+    "ruso": "вино",
+    "significado": "vino",
+    "pronunciacion": ["vino"]
+  }
+]
