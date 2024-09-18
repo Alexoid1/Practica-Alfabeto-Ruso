@@ -11,36 +11,30 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
-import org.json.JSONArray;
-import org.json.JSONObject;
+public class MainActivity3 extends AppCompatActivity {
 
-import java.io.InputStream;
-import java.nio.charset.StandardCharsets;
-
-public class MainActivity extends AppCompatActivity {
-
-    Button btn;
+    Button btnR;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         EdgeToEdge.enable(this);
-        setContentView(R.layout.activity_main);
-        btn = findViewById(R.id.btn);
+        setContentView(R.layout.activity_main3);
+        btnR = findViewById(R.id.buttonR);
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main), (v, insets) -> {
             Insets systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars());
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
             return insets;
         });
 
-        btn.setOnClickListener(new View.OnClickListener() {
+        btnR.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent i = new Intent(getApplicationContext(),SecondActivity2.class);
                 startActivity(i);
             }
         });
+
+
     }
-
-
 }

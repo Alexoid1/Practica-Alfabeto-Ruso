@@ -2,5 +2,8 @@
     <string name="app_name">Practica Ruso</string>
     <string name="app_title">Vamos a practicar Ruso!</string>
     <string name="input_word">Escribe como suena la palabra en ruso</string>
-    <string name="button_result">Ver Resultado</string>
+    <string name="button_empezar">Empezar</string>
+    <string name="button_resultado">Revisar Resultado</string>
+    <string name="button_alfabeto">Alfabeto Ruso</string>
+    <string name="button_regresar">Regresar</string>
 </resources>
